@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "cors": "https://deno.land/x/cors@v1.2.2",
+    "cors/": "https://deno.land/x/cors@v1.2.2/",
+    "dotenv": "https://deno.land/std@0.151.0/dotenv",
+    "dotenv/": "https://deno.land/std@0.151.0/dotenv/",
+    "oak": "https://deno.land/x/oak@v10.6.0",
+    "oak/": "https://deno.land/x/oak@v10.6.0/",
+    "supabase": "https://deno.land/x/supabase@1.3.1",
+    "supabase/": "https://deno.land/x/supabase@1.3.1/"
+  }
+}
